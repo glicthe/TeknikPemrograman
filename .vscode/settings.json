@@ -1,8 +1,10 @@
 {
     "java.project.sourcePaths": [
+        "Pert4/KasusGame",
+        "Pert.3",
         "Pert.2",
         "Pert.1",
-        "Pert.3"
+        "Pert5"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
